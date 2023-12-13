@@ -31,10 +31,11 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
 - IG: [Your IG Name](link-to-ig)
 - FB: [Your FB Name](link-to-fb)
+- Twitter: [Your Twitter Handle](link-to-twitter)
 
 ## 🌐 Online Presence
 
-- [DevOps AWS with Python](https://devopsgvenkat.blogspot.com/): Share your insights and experiences in tech.
+- [DevOps AWS with Python](link-to-blog): Share your insights and experiences in tech.
 - [Portfolio Website](link-to-portfolio): Explore more about my work and projects.
 
 ## 🏆 Achievements
@@ -51,4 +52,4 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 Happy coding! 🚀
 
 ## My GitHub Stats :rocket: :rocket:
-[![YOUR's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkat09docs&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![YOUR's GitHub stats](https://github-readme-stats.vercel.app/api?username=devarapalli777&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
