@@ -29,7 +29,23 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- IG: [Your IG Name](link-to-ig)
+- FB: [Your FB Name](link-to-fb)
 - Twitter: [Your Twitter Handle](link-to-twitter)
+
+## 🌐 Online Presence
+
+- [Personal Blog](link-to-blog): Share your insights and experiences in tech.
+- [Portfolio Website](link-to-portfolio): Explore more about my work and projects.
+
+## 🏆 Achievements
+
+- Mention any relevant certifications, awards, or recognition.
+
+## 📖 Certifications
+
+- AWS Certified [Your Certification]
+- Any other relevant certifications
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have questions or just want to connect!
 
