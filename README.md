@@ -31,11 +31,10 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
 - IG: [Your IG Name](link-to-ig)
 - FB: [Your FB Name](link-to-fb)
-- Twitter: [Your Twitter Handle](link-to-twitter)
 
 ## 🌐 Online Presence
 
-- [Personal Blog](link-to-blog): Share your insights and experiences in tech.
+- [DevOps AWS with Python](https://devopsgvenkat.blogspot.com/): Share your insights and experiences in tech.
 - [Portfolio Website](link-to-portfolio): Explore more about my work and projects.
 
 ## 🏆 Achievements
